@@ -1,0 +1,2 @@
+# Lesson_3_Python_Types_simple_types_Lists_Tuples_and_Sorting_Functions
+Agenda 22-02-2019
