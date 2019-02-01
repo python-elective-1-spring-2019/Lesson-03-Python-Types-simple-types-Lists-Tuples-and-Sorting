@@ -1,4 +1,4 @@
-# Lesson 3: Python Types, simple types, Lists, Tuples and Sorting and Functions
+# Lesson 3: Python Types, simple types, Lists, Tuples and Sorting
 <div align="right">
 <a href="../../../Lesson_02_introduction_to_python_and_python_strings/blob/master/README.md">prev</a> | 
 <a href="https://python-elective-1-spring-2019.github.io/">index</a> | 
