@@ -1,8 +1,8 @@
 # Lesson 3: Python Types, simple types, Lists, Tuples and Sorting
 <div align="right">
-<a href="../../../Lesson_02_introduction_to_python_and_python_strings/blob/master/README.md">prev</a> | 
+<a href="../../../Lesson-02-Introduction-to-Python-and-Python-Strings/blob/master/README.md">prev</a> | 
 <a href="https://python-elective-1-spring-2019.github.io/">index</a> | 
-<a href="../../../Lesson_04_dictionary_sets_reading_and_writing_files/blob/master/README.md">next</a>
+<a href="../../../Lesson-04-Dictionary-Sets-Reading-and-Writing-Files/blob/master/README.md">next</a>
 </div>
 
 > Agenda 22-02-2019
@@ -19,7 +19,7 @@
 
 
 <div align="center">
-<a href="../../../Lesson_02_introduction_to_python_and_python_strings/blob/master/README.md">prev</a> | 
+<a href="../../../Lesson-02-Introduction-to-Python-and-Python-Strings/blob/master/README.md">prev</a> | 
 <a href="https://python-elective-1-spring-2019.github.io/">index</a> | 
-<a href="../../../Lesson_04_dictionary_sets_reading_and_writing_files/blob/master/README.md">next</a>
+<a href="../../../Lesson-04-Dictionary-Sets-Reading-and-Writing-Files/blob/master/README.md">next</a>
 </div>
