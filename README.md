@@ -8,13 +8,18 @@
 > Agenda 22-02-2019
 
 ## Required reading
-
+* [3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
+* [4.2. for Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+* [4.3. The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
+* []()
 
 ### Suplementary reading
 
 
 ## Exercises
-
+* [list1.py](exercises/list1.py)
+* [list2.py](exercises/list2.py)
+* [solutions](exercises/solution/)
 
 
 
