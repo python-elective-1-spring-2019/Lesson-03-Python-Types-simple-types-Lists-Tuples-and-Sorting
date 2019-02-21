@@ -1,10 +1,6 @@
-#!/usr/bin/python -tt
 # Copyright 2010 Google Inc.
 # Licensed under the Apache License, Version 2.0
 # http://www.apache.org/licenses/LICENSE-2.0
-
-# Google's Python Class
-# http://code.google.com/edu/languages/google-python-class/
 
 # Basic list exercises
 # Fill in the code for the functions below. main() is already set up
@@ -22,21 +18,7 @@
 # Note: python does not have a ++ operator, but += works.
 def match_ends(words):
   # +++your code here+++
-  # words = ['aba', 'xyz', 'aa', 'x', 'bbb']
-  first_last = []
-  for w in words:
-    if w == '':
-      pass
-    elif w[0] == w[-1]:
-      first_last.append(w)
-  
-  count = 0
-  for x in first_last:
-    if len(x) < 2:
-      first_last.pop(count)
-    count += count
-
-  return len(first_last)
+  return 
 
 
 # B. front_x
@@ -48,19 +30,7 @@ def match_ends(words):
 # before combining them.
 def front_x(words):
   # +++your code here+++
-  list_of_x = []
-  main_list = []
-
-  for w in words:
-    if w[0] == 'x':
-      list_of_x.append(w)
-    else:
-      main_list.append(w)
-  
-  list_of_x = sorted(list_of_x)
-  main_list = sorted(main_list)
-
-  return list_of_x + main_list
+  return 
 
 
 
@@ -75,12 +45,7 @@ def front_x(words):
 
 def sort_last(tuples):
   # +++your code here+++
-  
-  # inner function
-  def extract(x):
-    return x[-1]
-
-  return sorted(tuples, key=extract)
+  return
 
 
 

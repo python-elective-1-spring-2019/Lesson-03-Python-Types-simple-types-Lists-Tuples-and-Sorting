@@ -3,9 +3,6 @@
 # Licensed under the Apache License, Version 2.0
 # http://www.apache.org/licenses/LICENSE-2.0
 
-# Google's Python Class
-# http://code.google.com/edu/languages/google-python-class/
-
 # Additional basic list exercises
 
 # D. Given a list of numbers, return a list where
@@ -16,11 +13,7 @@
 
 def remove_adjacent(nums):
     # +++your code here+++
-    result = []
-    for num in nums:
-        if len(result) == 0 or num != result[-1]:
-            result.append(num)
-    return result
+    return
 
 
 # E. Given two lists sorted in increasing order, create and return a merged
@@ -29,18 +22,7 @@ def remove_adjacent(nums):
 # pass of both lists.
 def linear_merge(list1, list2):
     # +++your code here+++
-    merged_list = []
-
-    while len(list1) != 0 and len(list2) != 0:
-        if list1[0] < list2[0]:
-            merged_list.append(list1.pop(0))
-        else:
-            merged_list.append(list2.pop(0))
-
-    # merged_list = merged_list + list1 + list2
-    merged_list.extend(list1)
-    merged_list.extend(list2)
-    return merged_list
+    return
 
 # Note: the solution above is kind of cute, but unforunately list.pop(0)
 # is not constant time with the standard python list implementation, so
