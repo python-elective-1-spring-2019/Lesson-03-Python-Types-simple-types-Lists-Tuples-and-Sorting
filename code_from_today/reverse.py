@@ -7,9 +7,7 @@ then your program should return the string "sredoC dna dlroW olleH".
 """
 
 def first_reverse(str):  
-    # 1. solution
-    # [start : end : step]
-    str = str[::-1]
+    # ++ Your code here ++
     return str
 
 
