@@ -45,7 +45,7 @@ def front_x(words):
 
 def sort_last(tuples):
   # +++your code here+++
-  return
+  return 
 
 
 
@@ -56,7 +56,7 @@ def test(got, expected):
     prefix = ' OK '
   else:
     prefix = '  X '
-  print (prefix + ' got: ' + got + ' expected: ' + expected)
+  print (f'{prefix} got: {got} expected: {expected}')
 
 
 # Calls the above functions with interesting inputs.

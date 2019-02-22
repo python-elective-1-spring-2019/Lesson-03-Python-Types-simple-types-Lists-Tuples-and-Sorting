@@ -7,8 +7,16 @@ then your program should return the string "sredoC dna dlroW olleH".
 """
 
 def first_reverse(str):  
-    # ++ Your code here ++
-    return str
+    #temp = ''
+
+    ## for i in range(len(str)):
+       ## temp += str[i]
+
+    # one liner
+
+
+
+    return str[::-1]
 
 
 # ===========================================================
