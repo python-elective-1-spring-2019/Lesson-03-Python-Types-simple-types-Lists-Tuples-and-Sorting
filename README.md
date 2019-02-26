@@ -19,6 +19,8 @@ Today we will talk about Lists and Tuples. We will also look at how to sort list
 * [4.3. The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
 * [5.1. More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
 * [5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
+* [Sorting HOW TO](https://docs.python.org/3/howto/sorting.html#sorting-how-to)
+
 
 
 ### Suplementary reading
