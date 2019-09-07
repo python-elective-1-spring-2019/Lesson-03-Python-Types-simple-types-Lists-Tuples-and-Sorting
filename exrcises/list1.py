@@ -44,8 +44,17 @@ def front_x(words):
 
 
 def sort_last(tuples):
-  # +++your code here+++
-  return 
+  
+  ## [(1, 7), (1, 3), (3, 4, 5), (2, 2)]
+  # inner function
+  def sort_last(tup):
+    return tup[-1]
+
+  # 7, 3, 5, 2
+  result = sorted(tuples, key=sort_last)
+
+
+  return result
 
 
 
